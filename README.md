@@ -12,7 +12,7 @@ Based on the highlighted PINs of the following list, we will be able to setup **
 
 | Serial (DB9) PIN # | Name |
 | ------------- | ------------- |
-| 1 | ** DCD (Carrier Detect)** | 
+| 1 | **DCD (Carrier Detect)** | 
 | 2 | ~~RxD (Receive Data)~~ |
 | 3 | ~~TxD (Transmit Data)~~ | 
 | 4 | **DTR (Data Terminal Ready)** |
