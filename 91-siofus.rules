@@ -1,0 +1,1 @@
+SUBSYSTEM=="tty", MODE="0777", ATTRS{idVendor}=="0557", ATTRS{idProduct}=="2008", SYMLINK+="siofus"
